@@ -3,5 +3,6 @@ export default function Page({
 }: {
   params: { item: string };
 }) {
+  console.log(item);
   return <div>My Post: {item}</div>;
 }
