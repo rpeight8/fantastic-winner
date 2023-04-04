@@ -13,7 +13,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <h1>Shop Root Layout</h1>
+        <h1>(shop) Root Layout</h1>
         {children}
       </body>
     </html>
